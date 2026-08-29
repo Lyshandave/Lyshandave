@@ -4,17 +4,21 @@
 📍 Metro Manila, Philippines
 
 ---
+## 📝 ABOUT ME
 
-## 📝 ABOUT
+I am a **TESDA NC II Certified Computer Systems Servicing professional**
+with a foundation in networking through **Cisco Networking Academy**.
 
-I am a TESDA NC II Certified Computer Systems Technician with training in Networking Basics through the Cisco Networking Academy.
+My skills include **PC assembly, hardware troubleshooting, networking,
+TCP/IP, IP addressing, and network configuration**, with training in
+**Networking Basics** and **CCNA: Introduction to Networks**.
 
-I have hands-on experience in PC assembly, server configuration, network troubleshooting, hardware maintenance, and system support.
+I am also exploring **cybersecurity and ethical hacking**, while developing
+my skills in **web development and software technologies**.
 
-I also have a strong foundation in web development and enjoy building modern, functional, and user-friendly applications.
-
-I continuously improve my skills in software development, networking, system administration, and IT support.
-
+I enjoy solving technical problems, building applications, and continuously
+expanding my knowledge across **IT, networking, cybersecurity, and web
+development**.
 ---
 
 ## 💻 TECH STACK
