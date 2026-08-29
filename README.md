@@ -19,6 +19,7 @@ my skills in **web development and software technologies**.
 I enjoy solving technical problems, building applications, and continuously
 expanding my knowledge across **IT, networking, cybersecurity, and web
 development**.
+
 ---
 
 ## 💻 TECH STACK
