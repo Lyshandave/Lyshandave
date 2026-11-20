@@ -72,13 +72,6 @@ development**.
 - **Networking Basics** — Cisco Networking Academy
 - **CCNA: Introduction to Networks** — Cisco Networking Academy
 - **Computer Systems Servicing** — TESDA
-
----
-
-## 🌐 SOCIAL LINKS
-
-[![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/channels/@me)
-
 ---
 
 <p align="center">
