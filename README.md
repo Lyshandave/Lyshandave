@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Lyshan-Dave
+# 👋 Hi, I'm Lyshan Dave
 
 💻 Computer Systems Technician | Web Developer  
 
